@@ -14,7 +14,7 @@
 	{
 		"composer/installers": "*",
 		"silverstripe/framework": "3.*",
-		"heyday/silverstripe-responsive-images": "0.1.x@stable"
+		"heyday/silverstripe-responsive-images": "^0.1"
 	},
 	"extra": {
       		"installer-name": "responsive-wysiwyg-images"
